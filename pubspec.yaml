@@ -31,7 +31,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_phantom: ^1.0.2-dev.1
+  flutter_phantom: ^1.0.3-dev.1
   solana_web3: ^0.0.2+4
   uni_links: ^0.5.1
   url_launcher: ^6.1.7
