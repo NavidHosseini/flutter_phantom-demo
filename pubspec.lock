@@ -145,7 +145,7 @@ packages:
       name: flutter_phantom
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.2-dev.1"
+    version: "1.0.3-dev.1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
